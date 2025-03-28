@@ -8,7 +8,7 @@ This port is in an incomplete state, only a "Proof of concept".
 - The game runs slow (the vita CPU is the fault, overclocking helps a bit)
 
 # To play the game
-- Get the game's apk and obb. 
+- Get the game's apk and obb. It HAS to be version 1.0.3
 - Create a new folder called `duck` in `ux0:data`.
 - Then, in `ux0:data/duck` create a folder called `cache`.
 - Open the apk in a zip program and extract `libDuckTales.so` from `lib/armv7`.
